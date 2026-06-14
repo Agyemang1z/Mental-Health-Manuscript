@@ -79,7 +79,7 @@ The data and code are provided for scholarly, educational, and reproducibility p
 
 ## Suggested Citation
 
-Candanedo, D., Agyemang, E., Chaudhry, F., Franks, T., Taylor, B., Siliezar, K., & Kakraba, S. (2026). Acta Psychologica, 267, 107081. *Leveraging Machine Learning Algorithms and Explainable AI for Predicting Mental Health Disorder Treatment at the Workplace* [Source code and data]. GitHub. https://github.com/Agyemang1z/Mental-Health-Manuscript
+Candanedo, Daniela, Edmund Agyemang, Farhana Chaudhry, Taylor Franks, Bailey Taylor, Kevin Siliezar, and Samuel Kakraba. *Leveraging machine learning algorithms and explainable AI for predicting mental health disorder treatment at the workplace.* Acta Psychologica 267 (2026): 107081. [Source code and data]. GitHub. https://github.com/Agyemang1z/Mental-Health-Manuscript
 
 ## Keywords
 
